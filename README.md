@@ -6,4 +6,4 @@ This is my first repository commiting the changes.
 Learning about
 
 Hi I am 
-designer
+developer
